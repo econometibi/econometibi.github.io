@@ -2,6 +2,7 @@
 title: "NiReMS: A regional model at household level combining spatial econometrics with dynamic microsimulation"
 collection: publications
 category: manuscripts
+excerpt: ''
 paperurl: 'https://doi.org/10.1080/17421772.2024.2333978'
 coauthors: "with A. Bhattacharjee,A. Pabst, G.J.D. Hewings, E. Ersoy, M.E. Schaffer in "
 venue: 'Spatial Economic Analysis'
