@@ -2,7 +2,7 @@
 title: "Fused LASSO as Non-Crossing Quantile Regression"
 collection: publications
 category: workingpapers
-date: 2024-08-22
+date: 2024-08-09
 venue: arxiv
 excerpt: ''
 paperurl: 'https://arxiv.org/abs/2403.14036'
