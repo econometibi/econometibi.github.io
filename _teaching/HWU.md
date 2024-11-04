@@ -12,13 +12,13 @@ Teaching Assistant for various courses from 2019 until 2024
 
 Undergraduate courses
 ======
--Statistical Techniques
--Introductory Econometrics
--Introductory Economics
--Intermediate Economics 2
--The Economy
--Applied Financial Modelling in Python
+- Statistical Techniques
+- Introductory Econometrics
+- Introductory Economics
+- Intermediate Economics 2
+- The Economy
+- Applied Financial Modelling in Python
 
 Graduate courses
 ======
--The Economy
+- The Economy
