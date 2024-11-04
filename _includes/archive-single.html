@@ -42,24 +42,24 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elseif post.collection == 'manuscripts' %}
           {% if post.category == 'workingpapers' %}
-              {% if post.coauthors %}
-                <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
-              {% else %}
-                <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-              {% endif %}
+            {% if post.coauthors %}
+              <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
+            {% else %}
+              <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% endif %}
           {% elseif post.category == 'wip' %}
-              {% if post.coauthors %}
-                <p>with {{post.coauthors}}</p>
-              {% else %}
-                <p> </p>
-              {% endif %}
-        {% else %}
-              {% if post.coauthors %}
-                <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
-              {% else %}
-                <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-              {% endif %}
-        
+            {% if post.coauthors %}
+              <p>with {{post.coauthors}}</p>
+            {% else %}
+              <p> </p>
+            {% endif %}
+          {% else %}
+            {% if post.coauthors %}
+              <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
+            {% else %}
+              <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% endif %}
+          {% endif %}
         {% endif %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
