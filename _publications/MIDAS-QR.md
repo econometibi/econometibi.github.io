@@ -1,13 +1,13 @@
 ---
-title: "Fused LASSO as Non-Crossing Quantile Regression"
+title: "MIDAS-QR with 2-Dimensional Structure"
 collection: publications
 category: workingpapers
-date: 2024-08-22
+date: 2024-06-21
 venue: arxiv
 excerpt: ''
-paperurl: 'https://arxiv.org/abs/2403.14036'
+paperurl: 'https://arxiv.org/abs/2406.15157'
 coauthors: "A. Bhattacharjee, M.E. Schaffer"
 ---
-**Abstract:** Quantile crossing has been an ever-present thorn in the side of quantile regression. This has spurred research into obtaining densities and coefficients that obey the quantile monotonicity property. While important contributions, these papers do not provide insight into how exactly these constraints influence the estimated coefficients. This paper extends non-crossing constraints and shows that by varying a single hyperparameter (α) one can obtain commonly used quantile estimators. Namely, we obtain the quantile regression estimator of Koenker and Bassett (1978) when α=0, the non crossing quantile regression estimator of Bondell et al. (2010) when α=1, and the composite quantile regression estimator of Koenker (1984) and Zou and Yuan (2008) when α→∞. As such, we show that non-crossing constraints are simply a special type of fused-shrinkage. 
+**Abstract:** Mixed frequency data has been shown to improve the performance of growth-at-risk models in the literature. Most of the research has focused on imposing structure on the high-frequency lags when estimating MIDAS-QR models akin to what is done in mean models. However, only imposing structure on the lag-dimension can potentially induce quantile variation that would otherwise not be there. In this paper we extend the framework by introducing structure on both the lag dimension and the quantile dimension. In this way we are able to shrink unnecessary quantile variation in the high-frequency variables. This leads to more gradual lag profiles in both dimensions compared to the MIDAS-QR and UMIDAS-QR. We show that this proposed method leads to further gains in nowcasting and forecasting on a pseudo-out-of-sample exercise on US data. 
 
-[Download Paper](https://arxiv.org/abs/2403.14036)
+[Download Paper](https://arxiv.org/abs/2406.15157)
