@@ -43,13 +43,13 @@
         {% elsif post.collection == 'publications' %}
           {% if post.category == 'workingpapers' %}
   {% if post.coauthors %}
-              <p>Preprint available at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
+              <p>Joint work with with {{post.coauthors}}. Preprint available at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Preprint available at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
     {% else %}
           {% if post.coauthors %}
-              <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
+              <p>Joint work with with {{post.coauthors}}. Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
             {% else %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
