@@ -40,14 +40,14 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elseif post.collection == 'manuscripts' %}
+        {% elsif post.collection == 'manuscripts' %}
           {% if post.category == 'workingpapers' %}
             {% if post.coauthors %}
               <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} with {{post.coauthors}}</p>
             {% else %}
               <p>Preprint in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
-          {% elseif post.category == 'wip' %}
+          {% elsif post.category == 'wip' %}
             {% if post.coauthors %}
               <p>with {{post.coauthors}}</p>
             {% else %}
