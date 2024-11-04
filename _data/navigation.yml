@@ -5,11 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
-
-  - title: "Working papers"
-    url: /wps/  
 
   - title: "Teaching"
     url: /teaching/    
