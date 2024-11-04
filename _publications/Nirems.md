@@ -3,8 +3,9 @@ title: "NiReMS: A regional model at household level combining spatial econometri
 collection: publications
 category: manuscripts
 paperurl: 'https://doi.org/10.1080/17421772.2024.2333978'
-date: 2024-05-08
+coauthors: "with A. Bhattacharjee,A. Pabst, G.J.D. Hewings, E. Ersoy, M.E. Schaffer in "
 venue: 'Spatial Economic Analysis'
+date: 2024-05-08
 ---
 **Abstract:** The heterogeneous spatial and individual impacts of the Great Recession, Brexit and COVID-19 have generated an important challenge for macroeconomic and regional/spatial modellers to consider greater integration of their approaches. Focusing on agent heterogeneity at the ITL 1 level in the UK, we propose the National Institute Regional Modelling System (NiReMS) – a synthesis of dynamic microsimulation with a spatial regional macroeconometric model. The model gives regional macro projections while allowing for household level inference. To showcase the model, we explore the impact of discontinuing the uplift in Universal Credit (UC) before the end of the pandemic and show that it led to more households consuming less. Importantly, the proposed framework highlights the unequal distributional impact across regions of the UK.
 
