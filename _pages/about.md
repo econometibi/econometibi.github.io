@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Personal webpage of Tibor Szendrei"
 author_profile: true
 redirect_from: 
   - /about/
