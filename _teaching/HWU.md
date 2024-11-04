@@ -1,7 +1,7 @@
 ---
 title: "Heriot-Watt University Courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Postgraduate courses"
 permalink: /teaching/HWU
 venue: "Heriot-Watt University"
 date: 2019-09-01
