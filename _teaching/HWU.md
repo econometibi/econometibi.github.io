@@ -8,6 +8,8 @@ date: 2019-09-01
 location: "Edinburgh, United Kingdom"
 ---
 
+Teaching Assistant for various courses from 2019 until 2024
+
 Undergraduate courses
 ======
 -Statistical Techniques
