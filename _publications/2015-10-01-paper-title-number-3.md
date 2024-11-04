@@ -1,5 +1,5 @@
 ---
-title: "test 3"
+title: "paper 3"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
