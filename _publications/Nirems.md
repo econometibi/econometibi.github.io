@@ -1,5 +1,5 @@
 ---
-title: "["NiReMS: A regional model at household level combining spatial econometrics with dynamic microsimulation"](https://doi.org/10.1080/17421772.2024.2333978)"
+title: "NiReMS: A regional model at household level combining spatial econometrics with dynamic microsimulation"
 collection: publications
 category: manuscripts
 ---
