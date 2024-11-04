@@ -3,6 +3,7 @@ title: "Momentum Informed Inflation-at-Risk"
 collection: publications
 category: workingpapers
 date: 2024-08-22
+venue: arxiv
 excerpt: ''
 paperurl: 'https://arxiv.org/abs/2408.12286'
 coauthors: "A. Bhattacharjee"
