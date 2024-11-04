@@ -47,6 +47,10 @@
             {% else %}
               <p>Preprint available at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
+    {% elsif post.category=='wip' %}
+            {% if post.coauthors %}
+              <p>Joint work with with {{post.coauthors}}.
+            {% endif %}
     {% else %}
           {% if post.coauthors %}
               <p>Joint work with with {{post.coauthors}}.<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
