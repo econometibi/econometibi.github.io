@@ -12,4 +12,4 @@ coauthors: "K. Varga"
 
 _Revise and Resubmit_ at: International Review of Financial Analysis
 
-[Download Paper](https://arxiv.org/abs/2404.01451)
+[Download Working Paper](https://arxiv.org/abs/2404.01451)
