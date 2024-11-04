@@ -82,7 +82,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  wps:
+  workingpapers:
     title: 'Working Papers'
   wip:
     title: 'Work in Progress'
