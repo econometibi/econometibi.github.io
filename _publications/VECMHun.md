@@ -2,7 +2,7 @@
 title: "The cyclical position of housing prices: A VECM approach for Hungary (RETIRED)"
 collection: publications
 category: workingpapers
-date: 2017
+date: 2017-01-01
 venue: MNB
 excerpt: ''
 paperurl: https://hdl.handle.net/10419/173448'
