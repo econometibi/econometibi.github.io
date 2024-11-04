@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Heriot-Watt University"
-date: 2019-2024
+date: 2019
 location: "Edinburgh, United Kingdom"
 ---
 
