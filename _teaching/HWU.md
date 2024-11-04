@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Edinburgh, United Kingdom"
 ---
 
-Teaching Assistant for various courses from 2019 until 2024
+Teaching Assistant for various courses (undergraduate and postgraduate) from 2019 to 2024
 
 Undergraduate courses
 ======
@@ -19,6 +19,6 @@ Undergraduate courses
 - The Economy
 - Applied Financial Modelling in Python
 
-Graduate courses
+Postgraduate courses
 ======
 - The Economy
