@@ -2,7 +2,7 @@
 title: "Heriot-Watt University Courses"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/HWU
 venue: "Heriot-Watt University"
 date: 2019-09-01
 location: "Edinburgh, United Kingdom"
