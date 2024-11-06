@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Download Job Market Paper](https://econometibi.github.io/files/GNCQR.pdf)
+[Download Job Market Paper](https://econometibi.github.io/files/GNCQR_JMP.pdf)
 ======
 
 I am a Senior Economist at the [National Institute of Economic and Social Research](https://www.niesr.ac.uk/) (NIESR), where my work centers on analyzing inequality and regional modelling. My research with NIESR has addressed a range of applied economic issues such as analysing the impact of removing the COVID-19 uplift in universal credit, and measuring the degree of regional inequality. Beyond inequality, I am interested in better understanding macro-financial linkages and the asymmetric interaction between the real and financial sectors. Through my research, I aim to make meaningful contributions to policy and practical applications of economic theory, particularly in understanding and mitigating financial and economic risks. 
