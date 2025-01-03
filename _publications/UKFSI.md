@@ -2,7 +2,7 @@
 title: "Non-stationary Financial Risk Factors and Macroeconomic Vulnerability for the UK"
 collection: publications
 category: manuscripts
-date: 2024-12-11
+date: 2025-01-01
 excerpt: ''
 paperurl: 'https://doi.org/10.1016/j.irfa.2024.103866'
 coauthors: "K. Varga"

@@ -2,7 +2,7 @@
 title: "Horseshoe prior Bayesian quantile regression"
 collection: publications
 category: manuscripts
-date: 2023-11-02
+date: 2024-01-01
 excerpt: ''
 paperurl: 'https://doi.org/10.1093/jrsssc/qlad091'
 coauthors: "D. Kohns"
